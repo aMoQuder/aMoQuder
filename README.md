@@ -44,43 +44,12 @@ Passionate about PHP, Laravel, and modern web technologies.
 
 ---
 
-## 🚀 Projects Carousel (scrollable)
+## 🚀 Projects
 
-<div style="display: flex; overflow-x: auto; gap: 15px; padding: 10px; scroll-snap-type: x mandatory;">
-
-<!-- Online Shop -->
-<div style="min-width: 320px; flex-shrink: 0; border-radius:10px; background:#1E1E1E; overflow:hidden; scroll-snap-align: start;">
-  [![Online Shop](https://raw.githubusercontent.com/aMoQuder/Online-Shop-E-Commerce-Mall-Store/main/online-shop.gif)](https://github.com/aMoQuder/Online-Shop-E-Commerce-Mall-Store)
-  **Online Shop**  
-  Comprehensive e-commerce platform for a shopping mall with inventory tracking, secure payment, and order management.
-</div>
-
-<!-- Clothing Shop -->
-<div style="min-width: 320px; flex-shrink: 0; border-radius:10px; background:#1E1E1E; overflow:hidden; scroll-snap-align: start;">
-  [![Clothing Shop](https://raw.githubusercontent.com/aMoQuder/Clothing-Shop-E-Commerce-Clothes-Store/main/clothing-shop.gif)](https://github.com/aMoQuder/Clothing-Shop-E-Commerce-Clothes-Store)
-  **Clothing Shop**  
-  Interactive online store with product filtering, size & color selection, personalized cart, and secure checkout.
-</div>
-
-<!-- Pato Restaurant -->
-<div style="min-width: 320px; flex-shrink: 0; border-radius:10px; background:#1E1E1E; overflow:hidden; scroll-snap-align: start;">
-  [![Pato Restaurant](https://raw.githubusercontent.com/aMoQuder/Pato-Restaurant-Online-Reservation-Events-markdown/main/pato-restaurant.gif)](https://github.com/aMoQuder/Pato-Restaurant-Online-Reservation-Events-markdown)
-  **Pato Restaurant**  
-  Modern restaurant site with table reservations, event updates, and menu previews.
-</div>
-
-<!-- Course Academy -->
-<div style="min-width: 320px; flex-shrink: 0; border-radius:10px; background:#1E1E1E; overflow:hidden; scroll-snap-align: start;">
-  [![Course Academy](https://raw.githubusercontent.com/aMoQuder/Course-Academy-Online-Course-Booking-System/main/course-academy.gif)](https://github.com/aMoQuder/Course-Academy-Online-Course-Booking-System)
-  **Course Academy**  
-  Educational platform to browse, book, and manage courses remotely with secure booking.
-</div>
-
-<!-- Farm Management -->
-<div style="min-width: 320px; flex-shrink: 0; border-radius:10px; background:#1E1E1E; overflow:hidden; scroll-snap-align: start;">
-  [![Farm Management](https://raw.githubusercontent.com/aMoQuder/farm-management-finance-system/main/farm-management.gif)](https://github.com/aMoQuder/farm-management-finance-system)
-  **Farm Management**  
-  Digital platform for agricultural enterprises to track daily activities and financial health efficiently.
-</div>
-
-</div>
+| Project | Description | Link |
+|---------|-------------|------|
+| ![Online Shop](https://raw.githubusercontent.com/aMoQuder/Online-Shop-E-Commerce-Mall-Store/main/online-shop.gif) | Comprehensive e-commerce platform for a shopping mall with inventory tracking, secure payment, and order management. | [View Project](https://github.com/aMoQuder/Online-Shop-E-Commerce-Mall-Store) |
+| ![Clothing Shop](https://raw.githubusercontent.com/aMoQuder/Clothing-Shop-E-Commerce-Clothes-Store/main/clothing-shop.gif) | Interactive online store with product filtering, size & color selection, personalized cart, and secure checkout. | [View Project](https://github.com/aMoQuder/Clothing-Shop-E-Commerce-Clothes-Store) |
+| ![Pato Restaurant](https://raw.githubusercontent.com/aMoQuder/Pato-Restaurant-Online-Reservation-Events-markdown/main/pato-restaurant.gif) | Modern restaurant site with table reservations, event updates, and menu previews. | [View Project](https://github.com/aMoQuder/Pato-Restaurant-Online-Reservation-Events-markdown) |
+| ![Course Academy](https://raw.githubusercontent.com/aMoQuder/Course-Academy-Online-Course-Booking-System/main/course-academy.gif) | Educational platform to browse, book, and manage courses remotely with secure booking. | [View Project](https://github.com/aMoQuder/Course-Academy-Online-Course-Booking-System) |
+| ![Farm Management](https://raw.githubusercontent.com/aMoQuder/farm-management-finance-system/main/farm-management.gif) | Digital platform for agricultural enterprises to track daily activities and financial health efficiently. | [View Project](https://github.com/aMoQuder/farm-management-finance-system) |
