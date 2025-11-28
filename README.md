@@ -38,10 +38,11 @@
 
 ### 📤 Connect With Me
 <p align="left">
-    <a href="mailto:anaahmedmohamed55@outlook.com">
+    <div align="center">
+  <a href="mailto:anaahmedmohamed55@outlook.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
 
-  <div align="center">
+
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/" target="_blank">
