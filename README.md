@@ -41,18 +41,32 @@
     <a href="mailto:anaahmedmohamed55@outlook.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
 
-    <a href="https://www.linkedin.com/">
-      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+  <div align="center">
 
-    <a href="https://wa.me/+201098303581">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
 
-    <a href="https://m.youtube.com/channel/UC1Ziymef6JuwQbtLK98WYxw">
-      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201098303581" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="50" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;
 
-    <a href="https://github.com/aMoQuder">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/></a>
-</p>
+  <!-- YouTube -->
+  <a href="https://m.youtube.com/channel/UC1Ziymef6JuwQbtLK98WYxw" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/aMoQuder" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" alt="GitHub"/>
+  </a>
+
+</div>
 
 ---
 
