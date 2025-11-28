@@ -1,6 +1,3 @@
-<!-- Banner + Greeting -->
-<h1 align="center">Hi 👋, I'm Ahmed AbdelQuder</h1>
-<h3 align="center">Full-Stack Web Developer | Laravel & PHP Specialist</h3>
 
 <!-- Profile Image -->
 <p align="center">
@@ -8,52 +5,77 @@
 </p>
 
 
-# Hi, I'm Ahmed AbdelQuder 👋
-**Full Stack Developer | Laravel & Web Development**
+<p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/Rising Developer 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/Active Open Source User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+</p>
 
-I build scalable web applications with clean and maintainable code.  
-Passionate about PHP, Laravel, and modern web technologies.
+<h1 align="center">Hi, I'm Ahmed AbdelQuder</h1>
+
+<h2 align="center">Backend Developer | Laravel Developer</h2>
+<br>
+
+<p align="center">
+    <a href="https://www.google.com/search?q=Ahmed+AbdelQuder"> 
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel%20Backend%20Developer;Building%20Powerful%20Web%20Applications;Always%20Learning%20New%20Technologies&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    </a>
+</p>
+
+<p>
+    <a href="https://www.google.com/search?q=Ahmed+AbdelQuder">
+      <img src="https://komarev.com/ghpvc/?username=aMoQuder&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/>
+    </a>
+</p>
+
+<p>
+    <a href="https://drive.google.com/file/d/1tbv-aHjA0w5U3lvuDzc6PU5h6O0BZ4S2/view?usp=drivesdk">
+      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+    <a href="#">
+      <img src="https://img.shields.io/badge/My Portfolio (Coming Soon)-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
+</p>
+
+### 📤 Connect With Me
+<p align="left">
+    <a href="mailto:anaahmedmohamed55@outlook.com">
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+
+    <a href="https://www.linkedin.com/">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+
+    <a href="https://wa.me/+201098303581">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
+
+    <a href="https://m.youtube.com/channel/UC1Ziymef6JuwQbtLK98WYxw">
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
+
+    <a href="https://github.com/aMoQuder">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/></a>
+</p>
 
 ---
 
-## 🛠 Skills
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🛠️ Top Technical Skills
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,mysql,html,css,js,git,github,postman,api,bootstrap&perline=7" style="height:113px;"/>
+</p>
 
 ---
 
-## 📫 Connect with me
-[![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1tbv-aHjA0w5U3lvuDzc6PU5h6O0BZ4S2/view?usp=drivesdk)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UC1Ziymef6JuwQbtLK98WYxw)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201098303581)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aMoQuder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](#)
+### 🏆 GitHub Trophies
+<p align="left">
 
----
+![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=aMoQuder&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=aMoQuder&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aMoQuder&layout=compact&theme=dark)
+<br>
 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aMoQuder&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=aMoQuder&theme=highcontrast" height="125"/>
+</p>
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aMoQuder&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aMoQuder&theme=dark)
-
----
-
+![Snake Animation](https://github.com/aMoQuder/aMoQuder/blob/output/snake-dark.svg)
 ## 🚀 Projects
 
 | Project | Description | Link |
