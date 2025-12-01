@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Online Shop — Mall Store",
+    "description": "A comprehensive e-commerce platform designed for a shopping mall, featuring secure payment processing, inventory tracking, order management, and customer dashboards.",
+    "image": "assets/projects/online-shop.png",
+    "github": "https://github.com/aMoQuder/Online-Shop-E-Commerce-Mall-Store",
+    "linkedin": "https://www.linkedin.com/posts/ahmed-quder-4b8a96326_laravel-ecommerce-fullstack-activity-7332446341270274048-6JxO",
+    "youtube": "https://youtu.be/uj1SAkGL3Rg?si=-mV19fSWYDeyjIrl"
+  },
+
+  {
+    "title": "Clothing Shop — E-Commerce Clothes Store",
+    "description": "An interactive clothing store with product filtering, size & color selection, secure checkout, and efficient backend order management.",
+    "image": "assets/projects/clothes-shop.png",
+    "github": "https://github.com/aMoQuder/Clothing-Shop-E-Commerce-Clothes-Store",
+    "linkedin": null,
+    "youtube": null
+  },
+
+  {
+    "title": "Pato Restaurant — Reservation & Events",
+    "description": "A modern restaurant platform with table reservations, event management, menu previews, and an admin dashboard for restaurant operations.",
+    "image": "assets/projects/restaurant.png",
+    "github": "https://github.com/aMoQuder/Pato-Restaurant-Online-Reservation-Events-markdown",
+    "linkedin": "https://www.linkedin.com/posts/ahmed-quder-4b8a96326_laravel-webdevelopment-fullstack-activity-7334191956450856961--mLu",
+    "youtube": "https://youtu.be/CDgCtCwcS2I?si=ZcxvJLnkRc2KMbUE"
+  },
+
+  {
+    "title": "Course Academy — Online Course Booking",
+    "description": "An educational platform for browsing, booking, and managing courses with student profiles, payments, schedules, and admin reports.",
+    "image": "assets/projects/course-academy.png",
+    "github": "https://github.com/aMoQuder/Course-Academy-Online-Course-Booking-System",
+    "linkedin": "https://www.linkedin.com/posts/ahmed-quder-4b8a96326_%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9-%D9%84%D9%80-kian-academy-activity-7331315462309302273-ue92",
+    "youtube": "https://youtu.be/XvZvzJAlJSA?si=4HNay03JH8SNI5f5"
+  },
+
+  {
+    "title": "Farm Management & Finance System",
+    "description": "A full-featured platform for agricultural management: crop tracking, employee attendance, daily activities, fertilizers, finances, and automated decision-support reporting.",
+    "image": "assets/projects/farm-system.png",
+    "github": "https://github.com/aMoQuder/farm-management-finance-system",
+    "linkedin": null,
+    "youtube": null
+  }
+]
