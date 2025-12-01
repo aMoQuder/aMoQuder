@@ -1,0 +1,33 @@
+name: Generate Slider
+
+on:
+  push:
+    paths:
+      - "projects.json"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+
+      - name: Run Generator Script
+        run: python generate_slider.py
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "github-actions@github.com"
+          git add SLIDER.md
+          git commit -m "Update Slider"
+          git push
