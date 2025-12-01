@@ -90,6 +90,12 @@
   <img src="https://streak-stats.demolab.com/?user=aMoQuder&theme=highcontrast" height="125"/>
 </p>
 
+<!-- PROJECT_SLIDER -->
+  
+<!-- The script will auto-update SLIDER.md and create the slider below -->
+  
+[See My Projects Slider](SLIDER.md)
+
 ![Snake Animation](https://github.com/aMoQuder/aMoQuder/blob/output/snake-dark.svg)
 ## 🚀 Projects
 
