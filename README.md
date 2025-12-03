@@ -38,9 +38,10 @@
 
 ### 📤 Connect With Me
 <p align="left">
-    <div align="center">
+    <div align="letf">
   <a href="mailto:anaahmedmohamed55@outlook.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+
 
 
 
